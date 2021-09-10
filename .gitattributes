@@ -1,4 +1,4 @@
-*.* linguist-language=Python
+*.* linguist-language=python
 
 *.ipynb linguist-vendored = false
 # *.py linguist-detectable=false 
